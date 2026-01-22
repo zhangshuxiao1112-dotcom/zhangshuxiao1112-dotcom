@@ -15,7 +15,7 @@
 
 I'm a **Year 1 BBA student** at **The Hong Kong University of Science and Technology (HKUST)**, passionate about leveraging data to drive insights and build intelligent systems. My journey combines business acumen with technical skills, focusing on **data science**, **quantitative analysis**, and **algorithmic trading**.
 
-- 🏆 **Kaggle Competition Silver Medalist** - Developed and optimized predictive models
+- 🏆 **Kaggle Competition Gold Medalist** - Developed and optimized predictive models
 - 🥇 **HK Web3 Quant Hackathon Top 13** - Built real-time algorithmic trading bots
 - 🎓 **GBA FinTech Talent Initiative 2025** - Selected by HKMA & Bloomberg
 
@@ -50,7 +50,7 @@ I'm a **Year 1 BBA student** at **The Hong Kong University of Science and Techno
         </a>
       </p>
       <p align="center">
-        <strong>Silver Medal Winner</strong><br>
+        <strong>Gold Medal Winner</strong><br>
         Developed predictive models using Python, featuring automated alpha factor generation and backtesting simulation for WorldQuant Brain platform.
       </p>
     </td>
