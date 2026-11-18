@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Shuxiao Zhang 👋</h1>
 
 <p align="center">
-  <em>BBA Student @ HKUST | Aspiring Data Scientist | Quantitative Finance Enthusiast</em>
+  <em>BBA Student @ HKUST | Aspiring Data Scientist | 
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 
 ### 🎯 About Me
 
-I'm a **Year 1 BBA student** at **The Hong Kong University of Science and Technology (HKUST)**, passionate about leveraging data to drive insights and build intelligent systems. My journey combines business acumen with technical skills, focusing on **data science**, **quantitative analysis**, and **algorithmic trading**.
+I'm a **Year 2 BBA student** at **The Hong Kong University of Science and Technology (HKUST)**, passionate about leveraging data to drive insights and build intelligent systems. My journey combines business acumen with technical skills, focusing on **data science**, **quantitative analysis**, and **algorithmic trading**.
 
 - 🏆 **Kaggle Competition Gold Medalist** - Developed and optimized predictive models
 - 🥇 **HK Web3 Quant Hackathon Top 13** - Built real-time algorithmic trading bots
